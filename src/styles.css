@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+body {
+  background: linear-gradient(90deg, #ddf, #eef);
+}
+
 .helloMsg > span {
     padding: 6px 8px;
     border-radius: 4px;
